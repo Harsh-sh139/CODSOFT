@@ -1,9 +1,8 @@
 # CODSOFT
 This is my first Git Repository
 <br>
-TASK 1 - Random Number Guessing Game 
-<br>
-1. Generate a random number within a specified range, such as 1 to 100.
+TASK 1 - Random Number Guessing Game<br>
+1.Generate a random number within a specified range, such as 1 to 100.
 <br>
 2. Prompt the user to enter their guess for the generated number.
 <br>
@@ -17,5 +16,7 @@ TASK 1 - Random Number Guessing Game
 <br>
 7. Display the user's score, which can be based on the number of attempts taken
 <br> or rounds won.
+<br>
+<br>
 <br>
 Author - Harsh
