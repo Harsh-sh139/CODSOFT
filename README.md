@@ -19,4 +19,33 @@ TASK 1 - Random Number Guessing Game<br>
 <br>
 <br>
 <br>
+
+
+
+<br>
+ TASK 2 - ATM INTERFACE USING JAVA
+ <br>
+1.Create a class to represent the ATM machine.
+<br>
+2. Design the user interface for the ATM, including options such as 
+<br>withdrawing, depositing, and
+<br>checking the balance.
+<br>
+
+3. Implement methods for each option, such as withdraw(amount), deposit
+<br>(amount), and <br>
+checkBalance().
+<br>
+4. Create a class to represent the user's bank account, which stores the <br>account balance.
+<br>
+5. Connect the ATM class with the user's bank account class to access and <br>modify the account balance.
+<br>
+6. Validate user input to ensure it is within acceptable limits (e.g.,
+<br>
+ sufficient balance for withdrawals).
+<br>
+7. Display appropriate messages to the user based on their chosen options and 
+<br>the success or failure of their transactions.
+<br>
+<br>
 Author - Harsh
