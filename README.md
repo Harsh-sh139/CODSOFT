@@ -28,14 +28,10 @@ TASK 1 - Random Number Guessing Game<br>
 1.Create a class to represent the ATM machine.
 <br>
 2. Design the user interface for the ATM, including options such as 
-<br>withdrawing, depositing, and
-<br>checking the balance.
+<br>withdrawing, depositing, and checking the balance.
 <br>
-
 3. Implement methods for each option, such as withdraw(amount), deposit
-<br>(amount), and <br>
-checkBalance().
-<br>
+<br> (amount), and checkBalance().
 4. Create a class to represent the user's bank account, which stores the <br>account balance.
 <br>
 5. Connect the ATM class with the user's bank account class to access and <br>modify the account balance.
